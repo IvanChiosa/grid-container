@@ -1,3 +1,25 @@
 img {
     width: 100%;
 }
+h1 {
+    text-align: center;
+}
+
+
+/* main {
+    border: 5px solid red;
+    display: grid;
+    grid-template-columns: auto auto auto;
+    gap: 1rem;
+} */
+
+.container {
+    display: grid;
+    grid-template-columns: minmax(100px, 350px) 1fr minmax(100px, 350px);
+    gap: 1rem;
+    border: 5px solid red;
+
+}
+
+
+
