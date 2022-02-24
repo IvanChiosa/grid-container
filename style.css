@@ -18,7 +18,6 @@ h1 {
     grid-template-columns: minmax(100px, 350px) 1fr minmax(100px, 350px);
     gap: 1rem;
     border: 5px solid red;
-
 }
 
 
